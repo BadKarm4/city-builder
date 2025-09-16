@@ -1,0 +1,19 @@
+{
+    "name": "UniRx",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b9186671798c09246a08ab61dc05b5c3",
+        "GUID:be5673185b934fb4294390795b4b5d61",
+        "GUID:8625e6aca4198da43a3101061cc59ed7",
+        "GUID:93123c46c7091d244a6c7bdb69acf69d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
